@@ -1,1 +1,136 @@
-index
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MyWikiPage</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Linux Libertine", "Georgia", "Times New Roman", serif;
+      background-color: #f8f9fa;
+      color: #202122;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #ffffff;
+      border-bottom: 1px solid #a2a9b1;
+      padding: 10px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+
+    #container {
+      display: flex;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    nav {
+      width: 220px;
+      background-color: #ffffff;
+      border-right: 1px solid #a2a9b1;
+      padding: 15px;
+      box-sizing: border-box;
+    }
+
+    nav h3 {
+      border-bottom: 1px solid #a2a9b1;
+      padding-bottom: 5px;
+      font-size: 1.1em;
+    }
+
+    nav a {
+      display: block;
+      text-decoration: none;
+      color: #0645ad;
+      margin: 5px 0;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      flex: 1;
+      padding: 20px;
+      background-color: #ffffff;
+    }
+
+    main h2 {
+      border-bottom: 1px solid #a2a9b1;
+      padding-bottom: 5px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #54595d;
+      padding: 15px;
+      border-top: 1px solid #a2a9b1;
+      background-color: #f8f9fa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Wiki Page</h1>
+    <p>A simple Wikipedia-like page created with GitHub Pages</p>
+  </header>
+
+  <div id="container">
+    <nav>
+      <h3>Contents</h3>
+      <a href="#intro">Introduction</a>
+      <a href="#history">History</a>
+      <a href="#features">Features</a>
+      <a href="#references">References</a>
+    </nav>
+
+    <main>
+      <section id="intro">
+        <h2>Introduction</h2>
+        <p>
+          This is a sample Wikipedia-like layout created using only HTML and CSS.
+          You can edit this text directly in your <code>index.html</code> file to
+          describe your project, topic, or research.
+        </p>
+      </section>
+
+      <section id="history">
+        <h2>History</h2>
+        <p>
+          The GitHub Pages service allows you to host websites directly from your GitHub repository.
+          It is commonly used for personal projects, documentation, and portfolios.
+        </p>
+      </section>
+
+      <section id="features">
+        <h2>Features</h2>
+        <ul>
+          <li>Simple and lightweight</li>
+          <li>Responsive and easy to customize</li>
+          <li>Wikipedia-inspired layout</li>
+        </ul>
+      </section>
+
+      <section id="references">
+        <h2>References</h2>
+        <p>
+          For more information, visit the
+          <a href="https://pages.github.com" target="_blank">GitHub Pages documentation</a>.
+        </p>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    <p>© 2025 My Wiki Page | Hosted on GitHub Pages</p>
+  </footer>
+</body>
+</html>
