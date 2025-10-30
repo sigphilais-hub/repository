@@ -9,7 +9,7 @@ Welcome to the SIGPhil repository. Below is a list of available pages and direct
 <ul>
 {% for page in site.pages %}
   {% unless page.name == "index.md" %}
-    <li><a href="{{ page.url }}">{{ page.title | default: page.path }}</a></li>
+    <li><a href="{{ page.url | relative_url }}">{{ page.title | default: page.path }}</a></li>
   {% endunless %}
 {% endfor %}
 </ul>
