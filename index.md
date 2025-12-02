@@ -6,6 +6,8 @@ nav_order: 1
 
 <p align="center"><strong>SIGPHIL THEORIZING REPOSITORY</strong></p>
 
+
+
 This repository is an initiative of the AIS Special Interest Group on Philosophy (SIGPhil) and emerges from a collective recognition that the vitality of the Information Systems (IS) field depends upon its capacity to engage deeply with theory, theorizing, and the diverse philosophical traditions that sustain them. In an era where technological and organizational transformations evolve at an unprecedented pace, it is increasingly vital to revisit and reconnect with the theoretical foundations that give meaning and coherence to our research endeavors, so we may make sense of this changing world and act in more informed and effective ways.
 
 This repository is grounded in the belief that progress in IS research requires open dialogue, theoretical reflection, and a pluralism of thought. It does not aim to impose a singular worldview or methodological orthodoxy but instead to create a scholarly space where different approaches, paradigms, and philosophies can coexist, interact, and challenge one another. Such intellectual diversity, we believe, is not a weakness but a defining strength of the IS community.
