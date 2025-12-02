@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Add Pages
-nav_order: 4
+nav_order: 10
 ---
 
 ## Overview
