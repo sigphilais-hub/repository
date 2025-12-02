@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Theories
+title: Overview of theorizing and the theorizing process
 nav_order: 3
 has_children: true
 ---
 
-# Theories
-This is the theory 
+# Overview of theorizing and the theorizing process
+
+Here, the focus is on the dynamics of thorizing itself: how we may develop theories and make sense of our reality. 
