@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Philosophical underpinning of theorizing
+title: Philosophical underpinnings of theorizing
 nav_order: 2
 has_children: true
 ---
