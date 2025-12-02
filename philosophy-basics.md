@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philosophy Basics
-parent: Topics
+parent: Philosophical underpinnings of theorizing
 nav_order: 1
 ---
 
