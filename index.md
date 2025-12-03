@@ -1,10 +1,10 @@
 ---
 layout: home
-title: SIGPhil Theorizing repository
+title: Introduction and foreword
 nav_order: 1
 ---
 
-<p align="center"><strong>SIGPHIL THEORIZING REPOSITORY</strong></p>
+<p align="center"><strong>INTRODUCTION AND FOREWORD</strong></p>
 
 
 
