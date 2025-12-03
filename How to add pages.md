@@ -1,10 +1,11 @@
 ---
 layout: default
-title: How to Add Pages
-nav_order: 10
+title: How to add pages
+parent: Discussions and issues
+nav_order: 1
 ---
 
-## Overview
+## How to add pages
 
 This document explains how to create new top-level sections ("tabs") and subpages in the SIGPhil repository’s documentation using the GitHub web interface and the Just‑the‑Docs theme.
 
