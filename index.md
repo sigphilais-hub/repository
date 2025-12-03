@@ -41,5 +41,5 @@ To facilitate navigation and engagement, the repository is organized into severa
 7. **Empirical Help**  
    Recognizing the interdependence of theory and empirical work, this section offers practical resources such as open datasets and secondary data sources to support theory-driven research.
 
-Finally, a **Discussion and Issues** section provides an open forum for dialogue, reflection, and critique. It is intended as a space where ideas can be tested, assumptions revisited, and new directions for theorizing can emerge through community engagement.
+Finally, a **Discussions and Issues** section provides an open forum for dialogue, reflection, and critique. It is intended as a space where ideas can be tested, assumptions revisited, and new directions for theorizing can emerge through community engagement.
 
