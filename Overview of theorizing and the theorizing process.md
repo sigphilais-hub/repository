@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overview of theorizing and the theorizing process
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
