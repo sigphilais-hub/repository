@@ -16,12 +16,10 @@ To ensure coherence, quality, and transparency, contributions should follow a si
 To ensure coherence, relevance, and efficient coordination, contributors are invited to follow the procedure outlined below:
 
 **1. Initial Contact**  
-Prospective contributors should first contact the SIGPhil group to discuss the proposed contribution. This step helps ensure the relevance of the topic to the repository’s scope and confirms that no other contributor is currently developing material on the same subject.
+Prospective contributors should first contact the SIGPhil group to discuss the proposed contribution. This step helps ensure the relevance of the topic to the repository’s scope and provides an opportunity to identify potential collaborations if multiple contributors are interested in working on the same or closely related topics.
 
 **2. Preparation of the Contribution**  
-Once the topic has been confirmed, contributors are invited to develop their submission in a Microsoft Word document. The document should follow any formatting and structural guidelines provided by the repository.
+Once the topic has been confirmed, contributors are invited to develop their submission in a Microsoft Word document. The document should as simple as possible and follow any formatting and structural guidelines provided by the repository.
 
 **3. Submission to the Moderators**  
 The completed document should be sent to the repository moderators. Upon receipt, the contribution will be reviewed, compiled as needed, and subsequently uploaded to the platform.
-
-This structured process helps maintain the academic integrity, coherence, and sustainability of the repository while facilitating timely integration of new contributions.
