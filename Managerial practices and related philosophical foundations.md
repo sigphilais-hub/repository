@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Managerial practices and related philosophical foundations
-nav_order: 8
+nav_order: 9
 has_children: true
 ---
 
