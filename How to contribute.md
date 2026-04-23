@@ -19,7 +19,11 @@ To ensure coherence, relevance, and efficient coordination, contributors are inv
 Prospective contributors should first contact the SIGPhil group to discuss their proposed contribution. This step helps ensure the relevance of the topic to the repository’s scope and provides an opportunity to identify potential collaborations if multiple contributors are interested in working on the same or closely related topics.
 
 **2. Preparation of the Contribution**  
-Once the topic has been confirmed, contributors are invited to develop their submission in a Microsoft Word document. The document should be as simple as possible and follow formatting and structural guidelines provided by the repository's moderators.
+Once the topic has been confirmed, contributors are invited to develop their submission as simple as possible. Files of any kind can be submitted including images and videos.
 
 **3. Submission to the Moderators**  
-The completed document should be sent to the repository moderators. Upon receipt, the contribution will be reviewed, compiled as needed, and subsequently uploaded to the platform.
+Once the contribution is completed, contributors are invited to submit it by completing the Google Form available through the link provided below. The form will allow contributors to upload their files and provide the information required for review and integration into the repository. Upon receipt, the contribution will be reviewed, compiled as needed, and subsequently uploaded to the platform.
+
+Submission form: https://forms.gle/ewLck53DbZZRojVh6
+
+Note: As all submitted material will be hosted on Google's platform, Google acount singning will be required to uplaod maerial.
