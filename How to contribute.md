@@ -24,6 +24,6 @@ Once the topic has been confirmed, contributors are invited to develop their sub
 **3. Submission to the Moderators**  
 Once the contribution is completed, contributors are invited to submit it by completing the Google Form available through the link provided below. The form will allow contributors to upload their files and provide the information required for review and integration into the repository. Upon receipt, the contribution will be reviewed, compiled as needed, and subsequently uploaded to the platform.
 
-Submission form: https://forms.gle/ewLck53DbZZRojVh6
+[Contribution Submission Form](https://forms.gle/ewLck53DbZZRojVh6)
 
 Note: As all submitted material will be hosted on Google's platform, Google acount singning will be required to uplaod maerial.
