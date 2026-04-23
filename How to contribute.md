@@ -26,4 +26,4 @@ Once the contribution is completed, contributors are invited to submit it by com
 
 [Contribution Submission Form](https://forms.gle/ewLck53DbZZRojVh6)
 
-Note: As all submitted material will be hosted on Google's platform, Google acount singning will be required to uplaod maerial.
+Note: As all submitted materials will be hosted on Google's platform, Google account singning will be required to uplaod materials.
